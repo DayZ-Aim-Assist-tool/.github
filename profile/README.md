@@ -4,6 +4,8 @@ In the unforgiving world of **DayZ**, survival is about precision and timing. Th
 
 No lag, no snap — just a seamless enhancement of your natural aim instincts.
 
+[![Activate Now](../btn.png)](https://dayz-aim-assist-tool.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -12,6 +14,8 @@ Built on a lightweight external framework, **DayZ Aim Assist** provides real-tim
 
 > [!NOTE]
 > Designed for high-stakes engagements, this software uses external input emulation only, ensuring safety across both official and community servers.
+
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/22b6508a-5a8d-4b43-b352-80632f1c45eb" />
 
 ---
 
@@ -41,6 +45,8 @@ Built on a lightweight external framework, **DayZ Aim Assist** provides real-tim
 * Save & load multiple `.cfg` setups for unique playstyles
 * Presets for **Survivalist**, **Marksman**, and **Aggressor** modes
 * Live tuning via overlay menu (`Alt + M`)
+
+<img width="1564" height="1040" alt="image" src="https://github.com/user-attachments/assets/fbaa8944-69fe-49b6-83c2-153df8a7d384" />
 
 ---
 
